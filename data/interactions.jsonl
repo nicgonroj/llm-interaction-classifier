@@ -1,0 +1,300 @@
+{"id": "INT-0001", "text": "Le gustaría tener unas cajitas de Cardiolex para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0002", "text": "Consultó si hay interacción entre Cardiolex y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0003", "text": "Le gustaría tener unas cajitas de Pulmovent para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0004", "text": "Consultó si hay interacción entre Osteafix y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0005", "text": "Preguntó si el seguro complementario reembolsa Cardiolex.", "label": "acceso_y_precio", "difficulty": "hard"}
+{"id": "INT-0006", "text": "Quiere conocer el mecanismo de acción de Dermatina y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0007", "text": "Necesita más muestras de Osteafix; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0008", "text": "Consultó si hay interacción entre Gastrivel y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0009", "text": "Le gustaría tener unas cajitas de Pulmovent para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0010", "text": "Pidió dejar unidades de Dermatina y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0011", "text": "Reporta erupción cutánea en una paciente con Neurozan; suspendió el tratamiento.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0012", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0013", "text": "Encontraron partículas en un frasco de Pulmovent; pide revisar el lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0014", "text": "Quiere conocer el mecanismo de acción de Neurozan y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0015", "text": "Solicitó muestras de Pulmovent para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0016", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0017", "text": "Consulta si Cardiolex entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0018", "text": "Un paciente presentó náuseas y mareo intenso tras iniciar Cardiolex.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0019", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0020", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0021", "text": "Pidió dejar unidades de Cardiolex y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0022", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0023", "text": "El envase de Dermatina llegó con el sellado roto en dos cajas del mismo lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0024", "text": "Pidió dejar unidades de Pulmovent y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0025", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0026", "text": "¿Se puede usar Osteafix en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0027", "text": "Consultó si hay interacción entre Gastrivel y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0028", "text": "Quiere conocer el mecanismo de acción de Pulmovent y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0029", "text": "Le gustaría tener unas cajitas de Dermatina para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0030", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0031", "text": "Solicitó muestras de Cardiolex para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0032", "text": "Le gustaría tener unas cajitas de Cardiolex para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0033", "text": "Consulta si Pulmovent entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0034", "text": "Quedó con dudas de cada cuánto tomar Neurozan si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0035", "text": "Quiere conocer el mecanismo de acción de Dermatina y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0036", "text": "Pidió evidencia reciente sobre Dermatina frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0037", "text": "Pidio muestas de Osteafix (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0038", "text": "Necesita más muestras de Cardiolex; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0039", "text": "Reporta erupción cutánea en una paciente con Osteafix; suspendió el tratamiento.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0040", "text": "Encontraron partículas en un frasco de Osteafix; pide revisar el lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0041", "text": "Consulta si Neurozan entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0042", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0043", "text": "Consultó si hay interacción entre Neurozan y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0044", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0045", "text": "Quedó con dudas de cada cuánto tomar Dermatina si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0046", "text": "Quiere conocer el mecanismo de acción de Dermatina y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0047", "text": "Comentó una posible reacción alérgica a Cardiolex; el paciente fue hospitalizado.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0048", "text": "Quiere conocer el mecanismo de acción de Neurozan y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0049", "text": "Preguntó por la cobertura de Dermatina en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0050", "text": "Necesita más muestras de Cardiolex; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0051", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0052", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0053", "text": "Necesita más muestras de Neurozan; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0054", "text": "El hijo de un paciente llamó porque su papá amaneció con la cara hinchada tras tomar Dermatina.", "label": "evento_adverso", "difficulty": "hard"}
+{"id": "INT-0055", "text": "Pidió evidencia reciente sobre Osteafix frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0056", "text": "La Dra. traumatólogo preguntó por la dosis de Cardiolex en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0057", "text": "Preguntó por la cobertura de Dermatina en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0058", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0059", "text": "Pidió dejar unidades de Gastrivel y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0060", "text": "Pidio muestas de Dermatina (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0061", "text": "Consulta si Pulmovent entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0062", "text": "Solicitó muestras de Dermatina para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0063", "text": "Preguntó por la cobertura de Neurozan en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0064", "text": "Necesita más muestras de Cardiolex; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0065", "text": "Consulta si Cardiolex entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0066", "text": "¿Se puede usar Cardiolex en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0067", "text": "Le gustaría tener unas cajitas de Dermatina para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0068", "text": "Quiere saber si existe convenio o descuento para pacientes con Neurozan.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0069", "text": "Pidió evidencia reciente sobre Pulmovent frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0070", "text": "Consulta si Pulmovent entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0071", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0072", "text": "Pidió dejar unidades de Cardiolex y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0073", "text": "Preguntó por la cobertura de Osteafix en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0074", "text": "Sus pacientes dejan Dermatina porque les sale muy caro; quiere alternativas.", "label": "acceso_y_precio", "difficulty": "hard"}
+{"id": "INT-0075", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0076", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0077", "text": "Pidio muestas de Cardiolex (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0078", "text": "Pidió dejar unidades de Dermatina y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0079", "text": "Quiere conocer el mecanismo de acción de Pulmovent y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0080", "text": "Consultó si hay interacción entre Cardiolex y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0081", "text": "¿Se puede usar Gastrivel en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0082", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0083", "text": "Pidió evidencia reciente sobre Osteafix frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0084", "text": "¿Se puede usar Dermatina en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0085", "text": "¿Se puede usar Gastrivel en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0086", "text": "Preguntó si el seguro complementario reembolsa Cardiolex.", "label": "acceso_y_precio", "difficulty": "hard"}
+{"id": "INT-0087", "text": "Pidió evidencia reciente sobre Gastrivel frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0088", "text": "Consultó si hay interacción entre Cardiolex y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0089", "text": "Quedó con dudas de cada cuánto tomar Osteafix si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0090", "text": "Pidio muestas de Pulmovent (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0091", "text": "La Dra. cardióloga preguntó por la dosis de Gastrivel en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0092", "text": "Consultó si hay interacción entre Pulmovent y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0093", "text": "Pidió evidencia reciente sobre Osteafix frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0094", "text": "Necesita más muestras de Gastrivel; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0095", "text": "¿Se puede usar Osteafix en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0096", "text": "Consulta si Cardiolex entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0097", "text": "Quiere conocer el mecanismo de acción de Dermatina y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0098", "text": "Pidió evidencia reciente sobre Pulmovent frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0099", "text": "Comentó una posible reacción alérgica a Cardiolex; el paciente fue hospitalizado.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0100", "text": "La Dra. gastroenteróloga preguntó por la dosis de Gastrivel en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0101", "text": "Comentó una posible reacción alérgica a Neurozan; el paciente fue hospitalizado.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0102", "text": "Comentó una posible reacción alérgica a Neurozan; el paciente fue hospitalizado.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0103", "text": "Pidio muestas de Pulmovent (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0104", "text": "La Dra. gastroenteróloga preguntó por la dosis de Cardiolex en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0105", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0106", "text": "La Dra. neumóloga preguntó por la dosis de Pulmovent en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0107", "text": "Un paciente devolvió Gastrivel porque el blíster estaba abierto.", "label": "reclamo_calidad", "difficulty": "hard"}
+{"id": "INT-0108", "text": "El hijo de un paciente llamó porque su papá amaneció con la cara hinchada tras tomar Pulmovent.", "label": "evento_adverso", "difficulty": "hard"}
+{"id": "INT-0109", "text": "Pidió evidencia reciente sobre Osteafix frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0110", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0111", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0112", "text": "Quedó con dudas de cada cuánto tomar Cardiolex si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0113", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0114", "text": "Pidio muestas de Cardiolex (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0115", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0116", "text": "Preguntó si el seguro complementario reembolsa Gastrivel.", "label": "acceso_y_precio", "difficulty": "hard"}
+{"id": "INT-0117", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0118", "text": "Consulta si Cardiolex entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0119", "text": "El envase de Pulmovent llegó con el sellado roto en dos cajas del mismo lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0120", "text": "Sus pacientes dejan Gastrivel porque les sale muy caro; quiere alternativas.", "label": "acceso_y_precio", "difficulty": "hard"}
+{"id": "INT-0121", "text": "Quiere saber si existe convenio o descuento para pacientes con Pulmovent.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0122", "text": "Quedó con dudas de cada cuánto tomar Osteafix si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0123", "text": "Consulta si Osteafix entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0124", "text": "La Dra. neurólogo preguntó por la dosis de Pulmovent en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0125", "text": "Pidio muestas de Cardiolex (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0126", "text": "Pidió dejar unidades de Gastrivel y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0127", "text": "Consultó si hay interacción entre Cardiolex y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0128", "text": "Quiere conocer el mecanismo de acción de Gastrivel y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0129", "text": "Consulta si Cardiolex entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0130", "text": "Pidió dejar unidades de Dermatina y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0131", "text": "Pidió evidencia reciente sobre Dermatina frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0132", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0133", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0134", "text": "Una paciente se sintió muy mal la semana después de empezar Osteafix y terminó en urgencias.", "label": "evento_adverso", "difficulty": "hard"}
+{"id": "INT-0135", "text": "Quedó con dudas de cada cuánto tomar Pulmovent si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0136", "text": "Pidió dejar unidades de Cardiolex y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0137", "text": "Quiere conocer el mecanismo de acción de Osteafix y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0138", "text": "Quiere conocer el mecanismo de acción de Neurozan y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0139", "text": "Visita de cortesía; agendamos una nueva reunión para el próximo mes.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0140", "text": "Las tabletas de Neurozan tienen un color distinto al habitual.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0141", "text": "Pidió evidencia reciente sobre Dermatina frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0142", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0143", "text": "El envase de Dermatina llegó con el sellado roto en dos cajas del mismo lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0144", "text": "Necesita más muestras de Osteafix; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0145", "text": "Quiere conocer el mecanismo de acción de Dermatina y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0146", "text": "Sus pacientes dejan Cardiolex porque les sale muy caro; quiere alternativas.", "label": "acceso_y_precio", "difficulty": "hard"}
+{"id": "INT-0147", "text": "Necesita más muestras de Neurozan; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0148", "text": "Encontraron partículas en un frasco de Dermatina; pide revisar el lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0149", "text": "Le gustaría tener unas cajitas de Gastrivel para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0150", "text": "Quedó con dudas de cada cuánto tomar Pulmovent si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0151", "text": "Encontraron partículas en un frasco de Dermatina; pide revisar el lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0152", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0153", "text": "Pidió dejar unidades de Neurozan y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0154", "text": "Solicitó muestras de Cardiolex para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0155", "text": "Las tabletas de Dermatina tienen un color distinto al habitual.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0156", "text": "Un paciente presentó náuseas y mareo intenso tras iniciar Neurozan.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0157", "text": "Pidió dejar unidades de Pulmovent y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0158", "text": "Pidió evidencia reciente sobre Dermatina frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0159", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0160", "text": "Pidió evidencia reciente sobre Cardiolex frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0161", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0162", "text": "Encontraron partículas en un frasco de Neurozan; pide revisar el lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0163", "text": "La Dra. cardióloga preguntó por la dosis de Cardiolex en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0164", "text": "Solicitó muestras de Dermatina para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0165", "text": "La Dra. gastroenteróloga preguntó por la dosis de Pulmovent en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0166", "text": "Comentó una posible reacción alérgica a Osteafix; el paciente fue hospitalizado.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0167", "text": "Le gustaría tener unas cajitas de Cardiolex para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0168", "text": "Visita de cortesía; agendamos una nueva reunión para el próximo mes.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0169", "text": "El envase de Gastrivel llegó con el sellado roto en dos cajas del mismo lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0170", "text": "Preguntó por la cobertura de Dermatina en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0171", "text": "Consulta si Osteafix entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0172", "text": "La Dra. dermatólogo preguntó por la dosis de Neurozan en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0173", "text": "Reporta erupción cutánea en una paciente con Neurozan; suspendió el tratamiento.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0174", "text": "Quiere conocer el mecanismo de acción de Cardiolex y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0175", "text": "Le gustaría tener unas cajitas de Dermatina para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0176", "text": "Dice que las cajas de Dermatina que recibió la farmacia del hospital venían aplastadas y húmedas.", "label": "reclamo_calidad", "difficulty": "hard"}
+{"id": "INT-0177", "text": "Consultó si hay interacción entre Dermatina y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0178", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0179", "text": "Visita de cortesía; agendamos una nueva reunión para el próximo mes.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0180", "text": "Pidió evidencia reciente sobre Cardiolex frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0181", "text": "Consulta si Gastrivel entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0182", "text": "Quedó con dudas de cada cuánto tomar Cardiolex si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0183", "text": "Necesita más muestras de Neurozan; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0184", "text": "Pidió dejar unidades de Cardiolex y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0185", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0186", "text": "Solicitó muestras de Osteafix para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0187", "text": "Pidió evidencia reciente sobre Cardiolex frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0188", "text": "¿Se puede usar Gastrivel en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0189", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0190", "text": "Solicitó muestras de Gastrivel para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0191", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0192", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0193", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0194", "text": "El envase de Dermatina llegó con el sellado roto en dos cajas del mismo lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0195", "text": "Quiere conocer el mecanismo de acción de Osteafix y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0196", "text": "Consulta si Dermatina entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0197", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0198", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0199", "text": "Solicitó muestras de Dermatina para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0200", "text": "Un paciente presentó náuseas y mareo intenso tras iniciar Neurozan.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0201", "text": "Pidió dejar unidades de Neurozan y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0202", "text": "Consultó si hay interacción entre Osteafix y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0203", "text": "Visita de cortesía; agendamos una nueva reunión para el próximo mes.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0204", "text": "Quiere conocer el mecanismo de acción de Osteafix y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0205", "text": "¿Se puede usar Neurozan en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0206", "text": "Consultó si hay interacción entre Gastrivel y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0207", "text": "Necesita más muestras de Pulmovent; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0208", "text": "Preguntó si el seguro complementario reembolsa Cardiolex.", "label": "acceso_y_precio", "difficulty": "hard"}
+{"id": "INT-0209", "text": "Consultó si hay interacción entre Dermatina y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0210", "text": "La Dra. neurólogo preguntó por la dosis de Cardiolex en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0211", "text": "Preguntó por la cobertura de Cardiolex en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0212", "text": "Pidio muestas de Osteafix (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0213", "text": "Quiere conocer el mecanismo de acción de Neurozan y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0214", "text": "Le gustaría tener unas cajitas de Gastrivel para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0215", "text": "Preguntó por la cobertura de Cardiolex en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0216", "text": "Necesita más muestras de Gastrivel; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0217", "text": "Pidió evidencia reciente sobre Cardiolex frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0218", "text": "Consultó si hay interacción entre Osteafix y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0219", "text": "Quedó con dudas de cada cuánto tomar Dermatina si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0220", "text": "Preguntó por la cobertura de Gastrivel en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0221", "text": "Consulta si Cardiolex entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0222", "text": "Consulta si Neurozan entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0223", "text": "Le gustaría tener unas cajitas de Cardiolex para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0224", "text": "Preguntó por la cobertura de Neurozan en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0225", "text": "Quedó con dudas de cada cuánto tomar Cardiolex si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0226", "text": "Quiere saber si existe convenio o descuento para pacientes con Neurozan.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0227", "text": "Le gustaría tener unas cajitas de Cardiolex para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0228", "text": "Solicitó muestras de Gastrivel para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0229", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0230", "text": "Preguntó por la cobertura de Osteafix en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0231", "text": "Quiere saber si existe convenio o descuento para pacientes con Neurozan.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0232", "text": "Pidió dejar unidades de Neurozan y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0233", "text": "Consultó si hay interacción entre Dermatina y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0234", "text": "¿Se puede usar Cardiolex en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0235", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0236", "text": "Necesita más muestras de Gastrivel; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0237", "text": "Pidió dejar unidades de Dermatina y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0238", "text": "Solicitó muestras de Cardiolex para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0239", "text": "Preguntó por la cobertura de Dermatina en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0240", "text": "Visita de cortesía; agendamos una nueva reunión para el próximo mes.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0241", "text": "Quedó con dudas de cada cuánto tomar Gastrivel si el paciente olvida una toma.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0242", "text": "Solo confirmó su nuevo horario de atención.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0243", "text": "Preguntó si el seguro complementario reembolsa Osteafix.", "label": "acceso_y_precio", "difficulty": "hard"}
+{"id": "INT-0244", "text": "Pidió evidencia reciente sobre Osteafix frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0245", "text": "¿Se puede usar Neurozan en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0246", "text": "Reporta erupción cutánea en una paciente con Osteafix; suspendió el tratamiento.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0247", "text": "De pasada, mientras pedía muestras de Pulmovent, contó que un paciente tuvo mareos al día siguiente.", "label": "evento_adverso", "difficulty": "hard"}
+{"id": "INT-0248", "text": "Quiere conocer el mecanismo de acción de Dermatina y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0249", "text": "Pidió evidencia reciente sobre Neurozan frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0250", "text": "Quiere conocer el mecanismo de acción de Gastrivel y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0251", "text": "Quiere conocer el mecanismo de acción de Osteafix y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0252", "text": "Un paciente devolvió Cardiolex porque el blíster estaba abierto.", "label": "reclamo_calidad", "difficulty": "hard"}
+{"id": "INT-0253", "text": "Pidió evidencia reciente sobre Pulmovent frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0254", "text": "Preguntó por la cobertura de Gastrivel en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0255", "text": "Consulta si Gastrivel entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0256", "text": "Comentó una posible reacción alérgica a Gastrivel; el paciente fue hospitalizado.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0257", "text": "Le gustaría tener unas cajitas de Gastrivel para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0258", "text": "Quiere conocer el mecanismo de acción de Osteafix y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0259", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0260", "text": "Solicitó muestras de Neurozan para iniciar tratamiento en su consulta.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0261", "text": "La Dra. cardióloga preguntó por la dosis de Cardiolex en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0262", "text": "Quiere saber si existe convenio o descuento para pacientes con Gastrivel.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0263", "text": "Consultó si hay interacción entre Neurozan y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0264", "text": "Preguntó por la cobertura de Cardiolex en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0265", "text": "Visita de cortesía; agendamos una nueva reunión para el próximo mes.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0266", "text": "Encontraron partículas en un frasco de Gastrivel; pide revisar el lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0267", "text": "Quiere conocer el mecanismo de acción de Pulmovent y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0268", "text": "Quiere saber si existe convenio o descuento para pacientes con Osteafix.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0269", "text": "La Dra. neumóloga preguntó por la dosis de Cardiolex en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0270", "text": "¿Se puede usar Cardiolex en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0271", "text": "Consultó si hay interacción entre Neurozan y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0272", "text": "Pidió evidencia reciente sobre Pulmovent frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0273", "text": "Le gustaría tener unas cajitas de Osteafix para que los pacientes lo prueben.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0274", "text": "Me pidió el contacto de la gerencia médica para invitarla a un seminario.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0275", "text": "Consultó si hay interacción entre Neurozan y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0276", "text": "La Dra. traumatólogo preguntó por la dosis de Gastrivel en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0277", "text": "Comentó una posible reacción alérgica a Osteafix; el paciente fue hospitalizado.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0278", "text": "Pidió evidencia reciente sobre Osteafix frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0279", "text": "Reporta erupción cutánea en una paciente con Cardiolex; suspendió el tratamiento.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0280", "text": "Consultó si hay interacción entre Osteafix y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0281", "text": "Comentó una posible reacción alérgica a Neurozan; el paciente fue hospitalizado.", "label": "evento_adverso", "difficulty": "standard"}
+{"id": "INT-0282", "text": "Pidio muestas de Dermatina (sic) para la semana que viene.", "label": "solicitud_muestra", "difficulty": "hard"}
+{"id": "INT-0283", "text": "Consulta si Osteafix entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0284", "text": "Preguntó por la cobertura de Dermatina en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0285", "text": "Preguntó por la cobertura de Neurozan en Fonasa e isapres.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0286", "text": "¿Se puede usar Gastrivel en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0287", "text": "Conversamos sobre el congreso; nada más que reportar.", "label": "otro", "difficulty": "hard"}
+{"id": "INT-0288", "text": "Quiere saber si existe convenio o descuento para pacientes con Cardiolex.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0289", "text": "El envase de Pulmovent llegó con el sellado roto en dos cajas del mismo lote.", "label": "reclamo_calidad", "difficulty": "standard"}
+{"id": "INT-0290", "text": "Pidió evidencia reciente sobre Cardiolex frente al tratamiento estándar.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0291", "text": "¿Se puede usar Osteafix en embarazadas? Le interesa el dato antes de recetar.", "label": "consulta_producto", "difficulty": "hard"}
+{"id": "INT-0292", "text": "Comentó que asistirá al congreso de la especialidad en noviembre.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0293", "text": "Consultó si hay interacción entre Gastrivel y anticoagulantes; pidió el estudio pivotal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0294", "text": "Pidió dejar unidades de Gastrivel y material de apoyo para pacientes.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0295", "text": "Quiere conocer el mecanismo de acción de Pulmovent y su indicación en adultos mayores.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0296", "text": "Necesita más muestras de Cardiolex; se acabaron las de la visita anterior.", "label": "solicitud_muestra", "difficulty": "standard"}
+{"id": "INT-0297", "text": "La Dra. dermatólogo preguntó por la dosis de Gastrivel en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
+{"id": "INT-0298", "text": "Visita de cortesía; agendamos una nueva reunión para el próximo mes.", "label": "otro", "difficulty": "standard"}
+{"id": "INT-0299", "text": "Consulta si Cardiolex entra en la próxima licitación del hospital y a qué precio.", "label": "acceso_y_precio", "difficulty": "standard"}
+{"id": "INT-0300", "text": "La Dra. gastroenteróloga preguntó por la dosis de Cardiolex en pacientes con insuficiencia renal.", "label": "consulta_producto", "difficulty": "standard"}
